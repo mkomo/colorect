@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+# ColoRect - a tool for using RGB colorspace to encode data.
+
+# One Dimension
+## Spectral
+### Major-bit-based
+
+### Edge-runner
+
+## Linear
+
+## Monotonic Non-linear Function
+
+# Two Dimensions
+## Planar
+
+## Multi-Planar
+
+
+
+# (GitHub Markdown examples -- unrelated below this line)
 
 You can use the [editor on GitHub](https://github.com/mkomo/colorect/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
